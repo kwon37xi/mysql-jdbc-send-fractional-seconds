@@ -2,3 +2,4 @@ build/
 .idea/
 *.class
 *.iml
+contiperf-report/
